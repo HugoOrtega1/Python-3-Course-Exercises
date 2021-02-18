@@ -1,0 +1,2 @@
+A school assignment that showcases the use of python 3 Input, if and else statment to ask the user for a Name,
+ID and three assignments grades in which it calculates the average and informs the student if he/she passed or failed
